@@ -96,5 +96,3 @@ This is just an introduction to help you get started on your health and fitness 
 ### Key Takeaway
 
 **Your physical body is a tool for your mind. The sharper and stronger the tool, the more amazing things you can accomplish with it.**
-
----
