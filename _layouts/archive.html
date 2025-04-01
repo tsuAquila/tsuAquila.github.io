@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="archive">
+  <h1>Archive</h1>
+
+  <div class="video-grid">
+    {% for video in site.data.archive %}
+      <div class="video-container">
+        <h3 title="{{ video.title }}">
+          {% assign max_length = 35 %}
+          {% if video.title.size > max_length %}
+            {{ video.title | slice: 0, max_length }}...
+          {% else %}
+            {{ video.title }}
+          {% endif %}
+        </h3>
+        <p>{{ video.date }} | {{ video.type }}</p>
+        <div class="video-wrapper">
+          {{ video.iframe }}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

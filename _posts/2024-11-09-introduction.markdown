@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Blog 0: Introduction"
+title:  "Fitness 0: Introduction"
 date:   2024-11-09 21:00:00 +0530
-tag: fitness
 author: Aasish Raj
 description: "An introduction to fitness and health, exploring the differences and the three main pillars of fitness."
 permalink: /blogs/fitness/introduction

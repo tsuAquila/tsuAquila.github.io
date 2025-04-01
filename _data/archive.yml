@@ -1,0 +1,37 @@
+---
+- title: "Marshmello ft. Bastille - Happier (Official Music Video)"
+  date: "2018-07-24"
+  type: "Music"
+  iframe: |
+    <iframe width="560" height="315" 
+      src="https://www.youtube.com/embed/m7Bc3pLyij0?si=Tf4o_J58EQInCH_T" 
+      title="YouTube video player" frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+      gyroscope; picture-in-picture; web-share" 
+      referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    </iframe>
+
+- title: "history of the entire world, i guess"
+  date: "2017-05-11"
+  type: "Geography"
+  iframe: |
+    <iframe width="560" height="315" 
+      src="https://www.youtube.com/embed/xuCn8ux2gbs?si=-_NUD8jHvGSKflaj" 
+      title="YouTube video player" frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+      gyroscope; picture-in-picture; web-share" 
+      referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    </iframe>
+
+- title: "TIMELAPSE OF THE FUTURE: A Journey to the End of Time (4K)"
+  date: "2019-03-20"
+  type: Cosmos
+  iframe: |
+    <iframe 
+      width="560" height="315" 
+      src="https://www.youtube.com/embed/uD4izuDMUQA?si=840EpZZvbdkjw2RT" 
+      title="YouTube video player" frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      referrerpolicy="strict-origin-when-cross-origin" 
+      allowfullscreen>
+    </iframe>
